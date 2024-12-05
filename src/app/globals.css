@@ -62,6 +62,12 @@ body {
   }
 }
 
+#image {
+  background-color: aquamarine ;
+  background-image:url(../../public/Image/6bb6966e3a2f0d2ee715a212e840cce4.png);
+  height: 790px;
+}
+
 @layer base {
   * {
     @apply border-border;
