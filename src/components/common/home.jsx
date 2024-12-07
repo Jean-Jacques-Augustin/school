@@ -17,9 +17,6 @@ const company = [{
 
 export default function Home() {
     return (<main
-            style={{
-                border: "2px solid red",
-            }}
         >
 
             {/*Body*/}
